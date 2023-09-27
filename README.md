@@ -1,2 +1,3 @@
 # top-trumps-game
-First game made using APIs
+My first game made using APIs
+You can play Pokemon Fight, Wizard Wars or Or Yoyo Jedi
